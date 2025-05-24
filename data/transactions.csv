@@ -1,0 +1,11 @@
+Transaction ID,Transaction Type,Establishment,Time,Amount,Product,City - State
+9c,Credit,Esporte C,2023-11-21 21:53:28,1103,Sports Article,Porto Alegre - RS (Brazil)
+8c,Credit,Padaria Doce Pão,2023-11-21 21:39:28,21,Cakes,São Paulo - SP (Brazil)
+7c,Credit,Recarga Fácil,2023-11-21 21:35:28,50,50 Reais Recharge,São Paulo - SP (Brazil)
+6c,Credit,GameStore C,2023-11-15 21:35:28,180,Digital Game,São Paulo - SP (Brazil)
+5c,Credit,GameStore C,2023-11-10 15:54:28,152,Digital Game,São Paulo - SP (Brazil)
+4c,Credit,Padaria Trigo Dourado,2023-11-10 13:48:28,11,Cakes,São Paulo - SP (Brazil)
+3c,Credit,Recarga Fácil,2023-11-10 13:50:28,50,50 Reais Recharge,São Paulo - SP (Brazil)
+1d,Debit,Padaria Doce Pão,2023-11-10 09:36:28,25,Breakfast,São Paulo - SP (Brazil)
+2c,Credit,Livraria A,2023-11-10 08:47:28,96,OpenAI Book,São Paulo - SP (Brazil)
+1c,Credit,GameStore D,2023-11-09 14:48:28,184,Strategy Game,São Paulo - SP (Brazil)
